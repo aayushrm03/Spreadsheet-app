@@ -8,7 +8,7 @@ A pixel-perfect spreadsheet-style frontend prototype built with:
 - react-table (or custom grid)
 
 ## 🚀 Live Demo
-https://spreadsheet-app.vercel.app
+https://spreadsheet-app-phi.vercel.app/
 
 ## 🧠 Setup
 
